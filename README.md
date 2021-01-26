@@ -24,4 +24,4 @@ Search may not yield results on the first query
 Thanks to RarBG for creating TorrentAPI and documenting it!
 <hr>
 
-Finally, Feel free to contribute however you like, I know my code is **far** from perfect!
+Finally, feel free to contribute however you like, I know my code is **far** from perfect!
