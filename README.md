@@ -1,4 +1,4 @@
-# rbg-wonderland
+# rBG-Wonderland
 A friendly, CAPTCHA-less portal to RarBG (media piracy site) powered using their torrentAPI
 
 Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
