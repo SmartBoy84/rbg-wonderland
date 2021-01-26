@@ -17,6 +17,8 @@ Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 - Suggestions bar (Movies only)
 - Direct magnet links
 
+## Issues
+Search may not yield resuslt on the first query (pressing the submit button)
 
 ## Acknowledgments
 Thanks to RarBG for creating TorrentAPI and documenting it!
