@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "nes";
+    src: url('kongtext.ttf');
+}
+
+body {
+    text-align: center;
+    font-family: "nes";
+}
+
+#categories {
+    /*category div*/
+    margin-top: 0.6vw;
+}
+
+.button {
+    /*catergory buttons*/
+    font-size: 1.3vw;
+}
+
+.button:not(:last-child) {
+    /*last category button*/
+    margin-right: 1.5vw;
+}
+
+#input {
+    /*input bar*/
+    width: 48vw;
+    height: 3.5vw;
+    font-size: 2vw;
+    padding: 0;
+    outline: none;
+
+    background-color: #f5f5f5;
+}
+
+#results {
+    /*table*/
+    width: 89%;
+    margin: 0 auto;
+    margin-top: 0.5vw;
+    table-layout: fixed;
+    text-align: center;
+}
+
+#resultTable {
+    display: none;
+    margin-bottom: 2vw;
+
+}
+
+th {
+    /*table headers*/
+    font-size: 1.2vw;
+}
+
+a {
+    color: #6600cc;
+}
+
+/*search suggestions css*/
+#autocomplete {
+    display: inline-block;
+    position: relative;
+}
+
+#autocomplete-items {
+    position: absolute;
+    border: 0.25vw solid #767676;
+    border-top: none;
+    border-bottom: none;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+
+    left: 0%;
+    right: 0%;
+    width: 80%;
+    margin: auto;
+}
+
+#autocomplete-items div {
+    /*this selects all the divs under the element with the autocomplete-items class*/
+    height: 2vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    background-color: #fcf9eb;
+    border-bottom: 0.25vw solid #767676;
+
+    font-size: 1vw;
+}
+
+#autocomplete-items div:hover {
+    background-color: #fcf7de;
+}
