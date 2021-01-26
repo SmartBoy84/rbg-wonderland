@@ -35,3 +35,5 @@ Thanks to RarBG for creating TorrentAPI and documenting it!
 <hr>
 
 Finally, feel free to contribute however you like, I know my code is **far** from perfect!
+
+Also, I would love it if you could [donate](https://ko-fi.com/barfangel) - It would make the week of my summer holidays spent on this project **completely** worthwhile 😊
