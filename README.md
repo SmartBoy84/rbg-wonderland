@@ -1,7 +1,7 @@
 # rBG-Wonderland
 A friendly, CAPTCHA-less portal to RarBG (media piracy site) powered using their torrentAPI
 
-Access the web app at: [RarBG Portal](https://hamdan.rocks/rbg.html)
+Access the web app at: [RarBG Portal](https://hamdan.rocks/rbg)
 
 ## Features
 - Cool looking GUI
