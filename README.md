@@ -1,5 +1,6 @@
 # rbg-wonderland
 A friendly, CAPTCHA-less portal to RarBG (media piracy site) powered using their torrentAPI
+Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 
 ## Features
 - Cool looking GUI
@@ -7,7 +8,6 @@ A friendly, CAPTCHA-less portal to RarBG (media piracy site) powered using their
 - Free of nasty CAPTCHAs (meaning I have to trust on random internet peeps not to abuse my website)
 - Suggestions bar (Movies only)
 - Direct magnet links
-Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 
 ![alt text](https://user-images.githubusercontent.com/12468102/105800947-eda95300-5fd2-11eb-9c75-f16770bdaa65.png "Screenshot_0")
 
