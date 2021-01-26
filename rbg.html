@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <title>
+        Ahoy, Matey!
+    </title>
+    
+    <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/webStyle.css">
+</head>
+
+<body>
+    <span id="search">
+        <div style="font-size: 2vw">
+            <span class="nes-text is-primary">Status: </span>
+            <span id="status" class="nes-text is-error">not ready!</span>
+        </div>
+        <div id="categories">
+
+        </div>
+        <form autocomplete="off" style="margin-top: 1vw;" id="form">
+
+            <div id="autocomplete">
+                <input id="input" class="nes-input">
+            </div>
+
+            <br>
+            <button type="submit" id="submit" style="margin-top: 0.8vw; width:48vw;font-size: 1.3vw;"
+                class="nes-btn is-error" disabled>Search</button>
+        </form>
+    </span>
+
+    <div style="margin-top: 3vw;" id="resultTable">
+        <span class="nes-text is-success" style="font-size: 2vw;">Results</span>
+        <table id="results" class="nes-table is-bordered is-centered">
+            <thead>
+                <tr>
+                    <th id="category" onclick="sort(this)" style="width: 22%;" class="nes-text is-primary">Type</th>
+                    <th id="title" onclick="sort(this)" class="nes-text is-primary">Name</th>
+
+                    <th id="size" onclick="sort(this)" style="width: 10%;" class="nes-text is-primary">Size</th>
+                    <th id="seeders" onclick="sort(this)" style="width: 7%;" class="nes-text is-primary">S.</th>
+                    <th id="leechers" onclick="sort(this)" style="width: 7%" class="nes-text is-primary">L.</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+
+</html>
+
+<script src="./assets/portal.js"></script>
