@@ -12,7 +12,7 @@ Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 
 ![alt text](https://user-images.githubusercontent.com/12468102/105800947-eda95300-5fd2-11eb-9c75-f16770bdaa65.png "Screenshot_0")
 
-##How to use
+## How to use
 - Select one or more categories
 - Type in the search query
   *if there is a suggestion avaiable click it to refine your query
