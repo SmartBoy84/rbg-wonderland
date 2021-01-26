@@ -15,7 +15,7 @@ Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 ## How to use
 - Select one or more categories
 - Type in the search query
-  *if there is a suggestion available click it to refine your query
+  * if there is a suggestion available click it to refine your query
 - Press enter/click the submit button
 - A table with a bunch of links should be generated:
   * If you know what you're doing select your preferred file to open the magnet link
