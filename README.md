@@ -2,7 +2,7 @@
 A friendly, CAPTCHA-less portal to RarBG (media piracy site) powered using their torrentAPI
 Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 
-![alt text](/s_shot0.png "Screenshot_0")
+![alt text](https://user-images.githubusercontent.com/12468102/105800947-eda95300-5fd2-11eb-9c75-f16770bdaa65.png "Screenshot_0")
 
 ## Limitations:
 - Api limits maximum search results to 100 so if your query has >100 results all may not be displayed. The website indicated this by showing one how many results your query has above the results table, if this occurs either try narrowing your query or use rarBG. 
