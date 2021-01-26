@@ -18,7 +18,9 @@ Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 - Unlike RarBG, the query submitted on their api needs to be word-by-word accurate else it fails, I've mitigated this by implementing suggestions as you type (powered by IMDB) 
 
 ## Issues
-Search may not yield resuslt on the first query (pressing the submit button)
+Search may not yield results on the first query
 
 ## Acknowledgments
 Thanks to RarBG for creating TorrentAPI and documenting it!
+
+Feel free to contribute however you like, I know my code is **far** from perfect!
