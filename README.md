@@ -7,7 +7,7 @@ Access the web app at: [RarBG Portal](https://gabba.ga/rbg.html)
 
 ## Limitations:
 - Api limits maximum search results to 100 so if your query has >100 results all may not be displayed. The website indicated this by showing one how many results your query has above the results table, if this occurs either try narrowing your query or use rarBG. 
-- You can't run the html file directly due to the COR's restriction. You can either bypass it using ![Cors Unblock](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en) or just use my website
+- You can't run the html file directly due to the COR's restriction. You can either bypass it using [Cors Unblock](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en) or just use my website
 - Unlike RarBG, the query submitted on their api needs to be word-by-word accurate else it fails, I've mitigated this by implementing suggestions as you type (powered by IMDB) 
 
 ## Features
